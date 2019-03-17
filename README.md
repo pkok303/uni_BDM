@@ -1,0 +1,2 @@
+# uni_BDM
+DATA MINING LECTURE
